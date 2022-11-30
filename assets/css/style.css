@@ -393,8 +393,8 @@ section .container {
 .me{
   width: 270px;
   height: 370px;
-  position: absolute;
-  right: 120px;
+  position: sticky;
+  right: 12px;
   bottom: 350px;
 
 }
